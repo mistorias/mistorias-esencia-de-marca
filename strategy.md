@@ -1,422 +1,321 @@
-# Mistorias - Estrategia de Branding
+# Mistorias - Estrategia de Branding Final (v2.0)
 
 ## 1. Resumen Ejecutivo
 
-**Mistorias** es una plataforma editorial peruana de narrativa que celebra historias ancestrales, contemporáneas y las raíces culturales andinas. La estrategia de branding posiciona a Mistorias como **editorial premium, accesible y profundamente narrativa**, usando una identidad visual análoga que evoca tierra, sangre, historia y memoria.
+**Mistorias** es una plataforma que **mejora la educación a través de historias**. Usa noticias relevantes de Arequipa y Perú para humanizar datos educativos, visibilizar brechas y convertir comprensión en acción transformadora.
 
-**Objetivo**: Ser la plataforma editorial de referencia para narrativa peruana que conecta pasado ancestral con presente vivo.
+**Misión**: *"Historias para transformar la educación"*
 
-**Audiencia Principal**: Lectores de 25-55 años interesados en cultura peruana, narrativa digital, historia andina, y profesionales creativos.
+**Estrategia en 3 fases**:
+1. **Fase 1**: Historias + noticias relevantes (Arequipa/Perú)
+2. **Fase 2**: Dashboards con datos abiertos
+3. **Fase 3**: Dashboards con datos privados
+
+**Siempre con historias como eje central**.
+
+**Audiencia**: Educadores/as, líderes locales, tomadores de decisiones, ciudadanos comprometidos con la educación en Arequipa y Perú.
 
 ---
 
 ## 2. Análisis de Contexto
 
-### 2.1 Oportunidad de Mercado
-- **Boom de narrativa digital**: Las historias digitales están en crecimiento en Latinoamérica
-- **Identidad cultural peruana**: Hay demanda de contenido que celebre la cultura sin folklorismo obvio
-- **Brecha editorial**: Pocas plataformas combinan narrativa + educación + belleza visual
-- **Audiencia sofisticada**: Profesionales creativos buscan plataformas editoriales serias
+### 2.1 Oportunidad Educativa
+- **Brecha educativa Perú**: 30% de niños sin competencias básicas (PISA 2022)
+- **Arequipa específica**: Deserción escolar 25% secundaria pública (MINEDU 2025)
+- **Demanda de datos humanos**: Estadísticas frías no movilizan; historias sí
+- **Falta de plataformas locales**: No hay periodismo educativo regional premium
 
-### 2.2 Diferenciadores de Mistorias
-1. **Narrativa raizada**: No es turismo, es historias que importan
-2. **Diseño editorial sofisticado**: Visual premium, no amateur
-3. **Accesibilidad**: Historias abiertas sin gatekeeping elitista
-4. **Conecta pasado + presente**: Quipu (ancestral) + digital (contemporáneo)
-5. **Geográficamente enraizado**: Arequipa/Misti como punto de referencia
+### 2.2 Diferenciadores Competitivos
+1. **Historias + Datos**: No solo números, contexto humano
+2. **Foco geográfico**: Arequipa + Perú (no global genérico)
+3. **Progresión estratégica**: Noticias → Datos abiertos → Datos privados
+4. **Secuencia transformadora**: Siente → Entiende → Actúa
+5. **Diseño editorial**: Visual sofisticado para temas complejos
 
-### 2.3 Competidores (Indirectos)
-- **Medium** (plataforma general, sin enfoque cultural)
-- **Plataformas académicas** (serias pero distantes)
-- **Blogs personales** (auténticas pero desorganizadas)
-- **Publicaciones impresas** (estableci pero no digitales)
+### 2.3 Competidores Indirectos
 
-**Ventaja Competitiva**: Mistorias es la única que combina **narrativa + cultura peruana + diseño editorial + acceso digital**.
+| Competidor | Fortalezas | Debilidades |
+|---|---|---|
+| **Medios nacionales** | Alcance | Sin foco educativo |
+| **ONGs educativas** | Datos | Sin narrativa atractiva |
+| **Universidades** | Investigación | Lenguaje académico |
+| **Blogs locales** | Conexión | Sin rigor analítico |
+
+**Ventaja Mistorias**: Historias que transforman datos en acción concreta.
 
 ---
 
 ## 3. Posicionamiento de Marca
 
 ### 3.1 Declaración de Posicionamiento
-**Mistorias es una plataforma editorial premium que celebra la narrativa peruana con diseño sofisticado, accesibilidad genuina y profundo respeto por la memoria ancestral.**
+**Mistorias transforma la educación contando historias que humanizan datos, visibilizan brechas y movilizan a la acción. Desde Arequipa para Perú.**
 
-### 3.2 Atributos de Marca
-| Atributo | Descripción |
-|---|---|
-| **Editorial** | Profesional, curatorial, de calidad |
-| **Narrativa-céntrica** | Las historias son el corazón, todo lo demás es apoyo |
-| **Cultura peruana** | Enraizada en historia andina, sin exotismo |
-| **Accesible** | Abierta, democrática, pero premium en calidad |
-| **Viva** | Energía, contemporaneidad, movimiento |
+### 3.2 Principios Core
 
-### 3.3 Arquetipos de Marca
-**Primario**: El Historiador + El Artesano
-- Guardián de historias
-- Técnica refinada
-- Respeto por la tradición
-- Innovación con propósito
+- **Empatía**: Poner personas en el centro, humanizar desigualdad educativa
+- **Transparencia**: Contexto claro, fuentes verificables, honestidad absoluta
+- **Empoderamiento**: Convertir comprensión en acción concreta y transformadora
+- **Secuencia**: *Siente → Entiende → Actúa*
 
-**Secundario**: El Sabio
-- Profundidad intelectual
-- Accesibilidad pedagógica
-- Autoridad cultural
+### 3.3 Tagline
+**"Historias para transformar la educación"**
+
+### 3.4 Manifiesto
+
+```
+Creemos en historias que conectan datos con personas. 
+Desde la empatía, para humanizar la desigualdad educativa.
+Desde la transparencia, para construir confianza.
+Desde el empoderamiento, para transformar realidades.
+```
 
 ---
 
 ## 4. Identidad Visual
 
-### 4.1 Concepto Visual
-**Ruta 1: Ascending Fold** — Páginas que se abren hacia arriba, quipu descendiendo, movimiento ascendente
-- **Símbolo**: Libro abierto (lectura/acceso) + quipu (memoria) + Misti (geografía)
-- **Estilo**: Manual, gestual, caligráfico, 70% geométrico + 30% humano
+### 4.1 Concepto Visual: "Ascending Data"
 
-### 4.2 Paleta Análoga
-La paleta rechaza el teal frío en favor de colores **análogos cálidos** que evocan tierra, sangre y profundidad andina:
+**Símbolo**: Libro abierto (educación) + quipu (memoria/datos) + Misti (Arequipa)
 
-**Primarios (Eje Rojo/Borgoña)**
-- **Wine Red** `#8B0F0F` — Primario principal (logo, títulos, énfasis)
-- **Warm Red** `#C44336` — Análogo cálido (acentos, interactividad)
-- **Deep Burgundy** `#5E2C3E` — Análogo frío (profundidad, detalles)
+**Estilo**: Manual, gestual, 70% geométrico + 30% humano
 
-**Secundarios (Apoyo)**
+**Metáfora**: Datos que ascienden hacia comprensión y acción
+
+### 4.2 Paleta Análoga Educativa
+
+**Primarios (Eje Rojo/Transformación)**:
+- **Wine Red** `#8B0F0F` — Problema, urgencia, transformación
+- **Warm Red** `#C44336` — Acción, esperanza, movimiento  
+- **Deep Burgundy** `#5E2C3E` — Profundidad analítica, datos
+
+**Secundarios (Apoyo Educativo)**:
 - **Deep Slate** `#1E2328` — Fondo dark mode
-- **Off-White** `#F7F4EF` — Fondo light mode / texto claro
-- **Rust** `#A24A2A` — Metadatos, timestamps, notas
+- **Off-White** `#F7F4EF` — Fondo light mode  
+- **Rust** `#A24A2A` — Metadatos, fuentes, contexto
 
-**Lógica Cromática**: 
-- Rechazo de teal (frialdad digital) a favor de análogos cálidos (humanidad andina)
-- Toda la paleta evoca tierra, historia, visceral
-- Coherencia narrativa: no hay distracciones cromáticas
+**Lógica**: Colores cálidos para temas educativos complejos (urgencia + esperanza).
 
-### 4.3 Tipografía
-**IBM Plex Sans** (Primaria)
-- Uso: Logo, H1, navegación, botones
-- Carácter: Moderna, corporativa, clara
-- Pesos: Bold (700), SemiBold (600), Regular (400)
+### 4.3 Tipografía Educativa
 
-**Lora** (Secundaria)
-- Uso: H2, H3, body text, narrativa
-- Carácter: Caligráfica, literaria, sofisticada
-- Pesos: SemiBold (600), Regular (400), Italic (400i)
+**IBM Plex Sans** (Información):
+- H1, navegación, botones, datos numéricos
+- Bold 700, SemiBold 600, Regular 400
 
-**Lógica Tipográfica**:
-- IBM Plex = "qué decir" (información, navegación)
-- Lora = "cómo decirlo" (narrativa, profundidad, calidez)
+**Lora** (Narrativa):
+- H2, body text, historias, análisis
+- SemiBold 600, Regular 400, Italic 400i
 
-### 4.4 Logo y Variantes
-**6 Variantes Obligatorias**:
-1. **Horizontal** — Logo + nombre a la derecha (web headers)
-2. **Vertical** — Nombre arriba, símbolo abajo (avatares/perfiles)
-3. **Símbolo Aislado** — Solo el icono (favicon, botones)
-4. **Primario (Wine Red)** — Sobre blanco/claro
-5. **Negativo (Blanco)** — Sobre Deep Slate/oscuro
-6. **Monocromático** — Negro/blanco puro
+### 4.4 Logo y Especificaciones
 
-**Especificaciones Técnicas**:
-- Tamaño mínimo: 32px digital, 8mm impresión
-- Área de seguridad: 25% de la altura del logo
-- Formatos: PNG, SVG, PDF, EPS a 300 DPI
+**6 variantes**: Horizontal, vertical, símbolo, primario, negativo, monocromático
 
-### 4.5 Aplicaciones Digitales Clave
+**Tamaños mínimos**: 32px digital, 8mm impresión
 
-**Website**
-- Header: Logo horizontal, navegación IBM Plex, fondo Deep Slate
-- Hero: H1 Wine Red IBM Plex, subtítulo Warm Red Lora
-- Cards: H2 Warm Red Lora, body Lora, borde izquierdo Warm Red
-- CTA: Gradient Wine Red → Rust
+**Área seguridad**: 25% altura del logo
 
-**Redes Sociales**
-- Avatar: Símbolo aislado con gradiente análogo
-- Bio: IBM Plex para nombre, Lora para descripción
-- Posts: Paleta análoga, tipografía coherente
-
-**Email**
-- Signature: Logo horizontal, contacto IBM Plex, divider gradiente análogo
-- Newsletter: H1 IBM Plex, body Lora, acentos Warm Red
-
-**Mobile**
-- Responsive desde 320px
-- Tipografía escalada (H2: 28px en móvil vs 32px desktop)
-- Botones touch-friendly (min 44px)
+**Formatos**: PNG, SVG, PDF, EPS (300 DPI)
 
 ---
 
-## 5. Voz y Tono
+## 5. Voz y Tono Educativo
 
-### 5.1 Personalidad de Marca
-- **Tono**: Inteligente sin ser árido, accesible sin ser simplista, literario sin ser elitista
-- **Voz**: Narrativa-céntrica, culturalmente consciente, genuina, curiosa
-- **Lenguaje**: Claro, poético, respetuoso, inclusivo
+### 5.1 Personalidad
+```
+Humana • Clara • Inspiradora • Orientada a la acción • Optimista activa
+```
 
-### 5.2 Mensajería Clave
-**Promesa de Marca**: "Historias que conectan el pasado ancestral con el presente vivo"
+### 5.2 Secuencia Comunicacional
+```
+1. SIENTE: Historia humana que conecta emocionalmente
+2. ENTIENDE: Datos, contexto, análisis claro  
+3. ACTÚA: Qué hacer, cómo ayudar, próximos pasos
+```
 
-**Mensajes Principales**:
-- "Historias que importan" — Importancia, significado
-- "Memoria hecha legible" — Accesibilidad, preservación
-- "Narrativa peruana sin filtros" — Autenticidad, profundidad
-- "Donde la historia sigue siendo viva" — Contemporaneidad, dinamismo
+### 5.3 Humor Estratégico
+```
+✓ Humor sutil: Visibilizar lo absurdo de la desigualdad
+✓ Ironía inteligente: Sin burla, sin minimizar
+✗ No frívolo: Mantiene seriedad del problema
+```
 
-### 5.3 Pilares de Contenido
-1. **Narrativa Ancestral**: Historias quechuas, aymara, inca
-2. **Memorias Contemporáneas**: Historias modernas enraizadas en tradición
-3. **Voces Locales**: Autores/as de Arequipa y regiones andinas
-4. **Educación Cultural**: Contexto, historia, significado
-5. **Diálogo**: Comunidad, comentarios, conversación
-
----
-
-## 6. Estrategia de Contenido
-
-### 6.1 Pilares Temáticos
-1. **Quipu Ancestral** — Historias de tradición, memoria, ritual
-2. **Misti Contemporáneo** — Historias modernas, geografía, lugar
-3. **Voces Andinas** — Autores/as locales, narrativas diversas
-4. **Lectura Larga** — Artículos profundos, investigaciones
-5. **Brevedad Poética** — Microrrelatos, poesía, ensayos breves
-
-### 6.2 Cadencia de Publicación
-- **2-3 artículos largos** por semana (1500-3000 palabras)
-- **5-7 piezas breves** por semana (300-800 palabras)
-- **Selectivo en calidad** sobre frecuencia
-- **Archivado permanente** (no desaparece)
-
-### 6.3 Canales de Distribución
-1. **Web** (plataforma primaria)
-2. **Newsletter** (Lora, accesible, profunda)
-3. **Redes** (TikTok, Instagram, Twitter — adaptado)
-4. **Podcast** (lectura en voz, narrativa sonora)
-5. **Colaboraciones** (otros medios, académicas)
+### 5.4 Ejemplo de Voz
+```
+"María recorre 8km diarios para llegar a la escuela. 
+Sus notas son excelentes, pero la deserción regional es 25%. 
+¿Y si su talento fuera la norma, no la excepción?"
+```
 
 ---
 
-## 7. Estrategia de Adquisición
+## 6. Estrategia de Contenido (3 Fases)
 
-### 7.1 Canales Primarios
-1. **SEO Orgánico** — Contenido de largo plazo, keywords narrativa peruana
-2. **Redes Sociales** — Instagram, TikTok (narrativa visual)
-3. **Communities** — Reddit, Discord, Medium (donde está la audiencia)
-4. **Collaboraciones** — Otros medios, académicos, influyentes
-5. **Email** — Newsletter, growth loop
+### Fase 1: Historias + Noticias (Meses 1-6)
 
-### 7.2 Propuesta de Valor
-- "Acceso libre a narrativa peruana de calidad"
-- "Comunidad de lectores reflexivos"
-- "Descubre autores/as locales"
-- "Aprende sobre cultura sin exotismo"
+- Noticias educativas Arequipa/Perú (3/semana)
+- Historias humanas detrás de estadísticas
+- Entrevistas con educadores/as locales
+- Secuencia: Siente → Entiende → Actúa
 
-### 7.3 Conversion Funnel
-**Awareness**: Redes, SEO, recomendación
-↓
-**Interest**: Artículos gratuitos, newsletter preview
-↓
-**Action**: Newsletter semanal, favoritos, membresía (futuro)
-↓
-**Retention**: Contenido consistente, comunidad, acceso especial
+### Fase 2: Datos Abiertos (Meses 7-12)
 
----
+- Dashboards MINEDU, INEI, SINEB
+- Visualizaciones interactivas de brechas
+- Historias que explican cada métrica
+- Comparativas Arequipa vs Perú vs Latam
 
-## 8. Estrategia de Engagement
+### Fase 3: Datos Privados (Año 2+)
 
-### 8.1 Construcción de Comunidad
-- **Comentarios moderados**: Diálogo reflexivo, no spam
-- **Evento mensual**: Lectura en vivo, charla con autor/a
-- **Membresía futura**: Acceso anticipado, contenido exclusivo
-- **Comunidad offline**: Eventos Arequipa + Lima
+- Datos propios recopilados (encuestas, tracking)
+- Análisis predictivo de deserción
+- Modelos de intervención personalizados
+- Impacto medible de acciones comunitarias
 
-### 8.2 Métricas de Éxito
-- **Lectura promedio**: >3 minutos por artículo
-- **Tasa de newsletter**: >25% open rate, >5% click rate
-- **Redes**: >10% engagement rate (comentarios, shares)
-- **Comunidad**: >500 comentarios reflexivos por mes
-- **Recomendación**: >30% tráfico de referral (word of mouth)
-
-### 8.3 Feedback Loop
-- Monthly retrospective (qué funcionó, qué no)
-- Encuestas trimestrales de audiencia
-- A/B testing en redes y email
-- Evolución iterativa de contenido
+**Hilo conductor**: *Siempre historias primero, datos como apoyo.*
 
 ---
 
-## 9. Partnerships y Colaboraciones
+## 7. Aplicaciones Digitales
 
-### 9.1 Partners Estratégicos
-**Culturales**:
-- Universidad de Arequipa (investigación)
-- Museos locales (contenido, eventos)
-- Centros culturales (distribución)
+### 7.1 Estructura Web
 
-**Editoriales**:
-- Otras plataformas narrativas (no competitors)
-- Podcasts culturales
-- Medios investigativos
+```
+Homepage: Noticias destacadas + historia humana del día
+Categorías: Arequipa • Perú • Datos • Acción
+Dashboard: Fase 2+ (interactivo, educativo)
+Newsletter: Semanal con historia + dato clave + acción
+```
 
-**Marcas Alineadas**:
-- Cafeterías independientes (hosting lecturas)
-- Tiendas de libros locales
-- Artesanos/as andinos
+### 7.2 Redes Sociales
 
-### 9.2 Colaboraciones de Contenido
-- Autores/as invitados (narrativa + audiencia nueva)
-- Historiadores/as (profundidad académica)
-- Artistas visuales (acompañamiento de historias)
-- Traductores/as (acceso multilingüe)
+```
+Instagram: Historias visuales + datos impactantes
+TikTok: Testimonios 60s + estadística final
+Twitter: Noticias + análisis + convocatorias acción
+LinkedIn: Informes + dashboards + líderes educativos
+```
 
----
+### 7.3 Newsletter Semanal
 
-## 10. Roadmap de Implementación
-
-### Fase 1: Lanzamiento (Semanas 1-4)
-- ✅ Brand kit finalizado y en uso
-- ✅ Website versión MVP con primeros 10 artículos
-- ✅ Newsletter setup (Substack o alternativa)
-- ✅ Redes sociales: Instagram, Twitter, TikTok
-- ✅ Logo, tipografía, paleta en todos los canales
-
-### Fase 2: Construcción (Meses 2-3)
-- Publicación consistente (3 largos + 7 breves por semana)
-- Email marketing (newsletter, welcome series)
-- Community building (comentarios, eventos primer encuentro)
-- SEO optimization (meta tags, keywords, backlinks)
-- Primeras colaboraciones
-
-### Fase 3: Crecimiento (Meses 4-6)
-- Podcast piloto (10 episodios)
-- Membresía beta (early supporters)
-- Segunda ronda de colaboraciones
-- Analytics deep-dive (qué resuena)
-- Ajustes de estrategia
-
-### Fase 4: Escala (Meses 7-12)
-- Membresía full launch
-- Libro impreso (best-of compilación)
-- Evento anual (Arequipa)
-- Documentales (partnership video)
-- Expansión a otras ciudades
+```
+1. Historia humana (Lora, narrativa)
+2. Dato clave visualizado (IBM Plex, datos)
+3. Acción concreta (CTA clara)
+```
 
 ---
 
-## 11. Presupuesto y Recursos
+## 8. Roadmap de Implementación
 
-### 11.1 Equipo Core
-- **1 Editor/a Ejecutivo/a** — Dirección editorial, curatorial
-- **2 Editores/as** — Curaduría, edición, feedback
-- **1 Community Manager** — Redes, engagement, newsletter
-- **1 Designer** — Mantenimiento visual, social templates
-- **1 Dev/Growth** — Website, SEO, analytics
-
-### 11.2 Herramientas
-- Website: Ghost o alternative ($100/mes)
-- Newsletter: Substack (free) o Beehiiv ($39/mes)
-- Analytics: Plausible ($99/mes)
-- Design: Adobe Creative Cloud ($55/mes)
-- Community: Discord (free) o Circle (free)
-
-### 11.3 Presupuesto Aproximado
-- Salarios: $25,000-35,000/mes (equipo core)
-- Herramientas: $500/mes
-- Hosting + infraestructura: $200/mes
-- Marketing inicial: $2,000/mes
-- **Total Mensual**: ~$28,000-38,000
+| **Fase** | **Meses** | **Entregables** | **KPIs** |
+|---|---|---|---|
+| **Lanzamiento** | 1-3 | Web MVP, 50 noticias, 1k newsletter | 10k visitas, 500 suscriptores |
+| **Historias** | 4-6 | 200 noticias, redes 5k followers | 50k visitas, 2k newsletter |
+| **Datos Abiertos** | 7-12 | Dashboard v1, 50 visualizaciones | 100k visitas, 5k newsletter |
+| **Datos Privados** | 13-24 | Dashboard v2, impacto medible | 250k visitas, 10k newsletter |
 
 ---
 
-## 12. Indicadores Clave de Desempeño (KPIs)
+## 9. KPIs de Transformación Educativa
 
-### 12.1 Métricas de Audiencia
-- **Total visitantes/mes**: Meta 50k (mes 1) → 200k (mes 6)
-- **Newsletter subscribers**: Meta 500 (mes 1) → 5k (mes 6)
-- **Seguridores redes**: Meta 2k Instagram (mes 1) → 20k (mes 6)
+### 9.1 Audiencia
+```
+Visitantes/mes: 10k → 250k (24 meses)
+Newsletter: 500 → 10k suscriptores
+Redes: 5k → 50k followers combinados
+```
 
-### 12.2 Métricas de Engagement
-- **Tiempo promedio lectura**: >3 minutos
-- **Tasa de bounce**: <40%
-- **Newsletter open rate**: >25%
-- **Social engagement rate**: >5%
+### 9.2 Impacto Educativo
+```
+Historias leídas: >3 min promedio
+Acciones generadas: >5% lectores toman acción
+Colaboraciones locales: 10/mes (ONGs, escuelas)
+```
 
-### 12.3 Métricas de Comunidad
-- **Comentarios mensuales**: >200 reflexivos
-- **Usuarios activos**: >5% de audiencia total
-- **Tasa de recomendación**: >25% (NPS)
-
-### 12.4 Métricas de Negocio (Futuro)
-- **Miembros pagos**: 500+ (mes 6)
-- **ARR potencial**: $24,000+ (si $50/membresía/año)
-- **Costo de adquisición**: <$10 por miembro
-
----
-
-## 13. Diferenciación Competitiva
-
-### 13.1 Única en...
-1. **Narrativa 100% Peruana**: No es global, es profundamente local
-2. **Paleta Visual Análoga**: Color y diseño que evocan tierra andina
-3. **Tipografía Editorial**: IBM Plex + Lora es profesional pero calidez
-4. **Acceso Genuino**: Premium en calidad, no en precio
-5. **Enraizamiento Geográfico**: Misti, Arequipa como referencia viva
-
-### 13.2 Por qué Gana
-- **Autenticidad**: No es turismo cultural, es voz local genuina
-- **Diseño**: Belleza visual en cada punto de contacto
-- **Comunidad**: Diálogo, no broadcast
-- **Sostenibilidad**: Modelo viable (membresía, no ads)
-- **Legado**: Contribuye a preservar narrativa peruana
+### 9.3 Datos y Transformación
+```
+Fase 2: 50 dashboards públicos creados
+Fase 3: 1M datos privados analizados
+Impacto medible: -5% deserción en pilotos locales
+```
 
 ---
 
-## 14. Riesgos y Mitigación
+## 10. Equipo y Presupuesto
 
-| Riesgo | Impacto | Mitigación |
-|---|---|---|
-| Audiencia pequeña inicialmente | Alto | SEO agresivo, redes + partnerships desde día 1 |
-| Burnout editorial (pocas historias) | Alto | Team de editores, autores/as variados |
-| Copia (otros replican) | Medio | Comunidad fuerte, relaciones personales, exclusividad futura |
-| Saturación (demasiado contenido) | Medio | Calidad > cantidad, curaduría estricta |
-| Monetización lenta | Medio | Membresía beta temprana, diversificar (eventos, libros) |
+### 10.1 Equipo Mínimo
 
----
+```
+Editor/a Educativo (tiempo completo)
+Periodista Arequipa (medio tiempo)
+Data Analyst (medio tiempo, fase 2+)
+Community Manager (medio tiempo)
+Designer (freelance)
+```
 
-## 15. Visión a Largo Plazo (2-3 años)
+### 10.2 Inversión Inicial (6 meses)
 
-### 15.1 Misión Expandida
-Mistorias será **la plataforma editorial de referencia para narrativa peruana**, celebrada por:
-- Calidad de contenido (respetado por académicos)
-- Belleza de diseño (modelo a seguir para editoriales)
-- Comunidad reflexiva (diálogo genuino)
-- Sostenibilidad (negocio viable)
-- Impacto cultural (narrativa peruana preservada y viralizada)
-
-### 15.2 Expansión Potencial
-- Otras ciudades/regiones andinas (Bolivia, Ecuador, Colombia)
-- Otras culturas indígenas (con partnerships)
-- Formatos (libro impreso, cine documental, podcast)
-- Educación (maestría online, workshop)
-- Preservación (archivo digital abierto)
-
-### 15.3 Éxito Definitivo
-Mistorias habrá ganado cuando:
-- ✓ 100,000+ lectores activos mensuales
-- ✓ 5,000+ miembros pagos ($250k ARR)
-- ✓ 50+ colaboradores/as regulares
-- ✓ 2-3 libros impresos publicados
-- ✓ Reconocimiento cultural en Perú (premios, menciones académicas)
-- ✓ Modelo replicable en otras ciudades
+```
+Equipo: $15,000/mes
+Herramientas: $300/mes
+Marketing: $1,000/mes
+Total: ~$100,000 (6 meses)
+```
 
 ---
 
-## 16. Conclusión
+## 11. Partnerships Estratégicos
 
-**Mistorias es única** porque combina:
-1. **Propósito cultural** (narrativa peruana) + **diseño de excelencia** (visual + tipográfica)
-2. **Accesibilidad genuina** (free + premium) + **sostenibilidad** (modelo viable)
-3. **Comunidad local** (Arequipa) + **alcance global** (digital)
+- **MINEDU Arequipa** (datos + validación)
+- **UGEL locales** (casos de éxito)
+- **Universidades** (investigación)
+- **ONGs educativas** (terreno + impacto)
+- **Medios locales** (distribución)
 
-La estrategia de branding posiciona a Mistorias como **la editorial narrativa peruana del siglo XXI**: profundamente enraizada, visualmente sofisticada, comunitaria, y sostenible.
+---
+
+## 12. Riesgos y Mitigación
+
+| **Riesgo** | **Mitigación** |
+|---|---|
+| Falta de noticias relevantes | Red de periodistas locales desde día 1 |
+| Datos públicos insuficientes | Fase 1 extensa, datos privados fase 3 |
+| Audiencia no actúa | CTA claras, seguimiento historias |
+| Saturación educativa | Foco geográfico Arequipa/Perú |
+
+---
+
+## 13. Éxito Definitivo (24 meses)
+
+**Mistorias habrá triunfado cuando**:
+
+```
+✓ 250k lectores/mes
+✓ 10k suscriptores newsletter
+✓ 50 dashboards educativos públicos
+✓ 5% impacto medible en deserción local
+✓ Referencia nacional en periodismo educativo
+✓ Modelo replicable otras regiones Perú
+```
+
+---
+
+## 14. Conclusión
+
+Mistorias es **único** porque combina:
+
+1. **Propósito transformador** (educación) + **historias humanas** (narrativa)
+2. **Datos progresivos** (noticias → abiertos → privados) + **acción concreta**
+3. **Foco geográfico** (Arequipa/Perú) + **impacto medible**
+
+La estrategia de branding posiciona a Mistorias como **la plataforma educativa peruana que transforma comprensión en acción**: profundamente enraizada, visualmente sofisticada, comunitaria, y con impacto medible.
 
 ---
 
 **Documento preparado por**: Mistorias Brand Strategy Team  
 **Fecha**: Abril 2, 2026  
-**Versión**: 1.0 Final  
+**Versión**: 2.0 Final Coherente  
 **Estado**: Aprobado para implementación
+
+```
+"Historias para transformar la educación"
+```
