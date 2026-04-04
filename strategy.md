@@ -1,4 +1,4 @@
-# Mistorias - Estrategia de Marca (v4.3)
+# Mistorias - Estrategia de Marca
 
 ## 1. Por qué Mistorias es único
 
