@@ -8,9 +8,9 @@ convierte historias reales en comprensión profunda, y esa comprensión en acci�
 Combina:
 - Narrativa humana
 - Datos explicados
-- Acción concreta
+- Reflexión personal
 
-Desde un contexto local (Arequipa/Perú) con vocación transformadora.
+Desde un contexto local y personal (Arequipa/Perú) con vocación transformadora.
 
 ---
 
@@ -29,7 +29,7 @@ En pocos minutos, una persona entiende un problema educativo real y siente el im
 
 Las brechas educativas no se entienden cuando se comunican como datos fríos.
 
-Mistorias las humaniza, las explica y las convierte en impulso transformador.
+Mistorias las humaniza, las explica y las presenta desde una perspectiva accesible.
 
 ---
 
@@ -42,22 +42,22 @@ Principal:
 - Personas en gestión pública, comunitaria o social
 
 Secundaria:
-- Ciudadanía interesada en entender y mejorar la educación
+- Ciudadanía interesada en entender mejor la educación
 
 Criterio:
-Priorizamos a quienes pueden convertir comprensión en acción.
+Se prioriza a quienes buscan comprender, reflexionar y actuar.
 
 ---
 
 ## 5. Territorio de marca
 
-No somos:
+No es:
 - Un medio de noticias tradicional
 - Un repositorio de datos
 - Un espacio académico
 
-Somos:
-- Una plataforma narrativa que transforma datos educativos en comprensión humana y acción
+Es:
+- Un proyecto personal de blogging que transforma datos educativos en comprensión humana y acción.
 
 ---
 
@@ -75,14 +75,15 @@ SIENTE → ENTIENDE → ACTÚA
 
 ## 7. Manifiesto
 
-Creemos en historias que conectan datos con personas.
+Mistorias cree en historias que conectan datos con personas.
 
 Desde la empatía, para humanizar la desigualdad educativa.
 Desde la transparencia, para construir confianza con contexto y fuentes claras.
 Desde el empoderamiento, para convertir la comprensión en acción.
+Desde la claridad, para hacer accesible lo complejo.
 
-No queremos solo informar.
-Queremos ayudar a ver, entender y transformar.
+No se limita a informar.
+Busca ayudar a ver, entender y transformar.
 
 ---
 
@@ -95,7 +96,7 @@ Arquetipos:
 - Secundario: Cuidador
 
 Mistorias selecciona, conecta y da contexto.
-No presume saberlo todo: ayuda a comprender mejor.
+No pretende saberlo todo: ayuda a comprender mejor.
 
 ---
 
@@ -158,7 +159,7 @@ Lora (Narrativa):
 - Pesos: SemiBold 600, Regular 400, Italic 400i
 
 Principio tipográfico:
-La tipografía debe reforzar el equilibrio entre claridad analítica y sensibilidad humana.
+La tipografía refuerza el equilibrio entre claridad analítica y sensibilidad humana.
 
 ---
 
@@ -166,9 +167,9 @@ La tipografía debe reforzar el equilibrio entre claridad analítica y sensibili
 
 1. Historias humanas
 2. Datos explicados
-3. Acciones concretas
+3. Contexto y reflexión
 
-Todo contenido debe combinar al menos 2.
+Todo contenido combina al menos 2.
 Idealmente, los 3.
 
 ---
