@@ -3,7 +3,7 @@
 ## 1. Por qué Mistorias es único
 
 Mistorias es único porque no se limita a informar ni a mostrar datos:
-convierte historias reales en comprensión profunda.
+convierte historias reales en comprensión profunda, y esa comprensión en acción.
 
 Combina:
 - Narrativa humana
@@ -16,12 +16,12 @@ Desde un contexto local y personal (Arequipa/Perú) con vocación transformadora
 
 ## 2. Esencia
 
-Mistorias conecta historias individuales con la historia más grande que las explica para generar conciencia.
+Mistorias conecta historias individuales con la historia más grande que las explica para generar conciencia y mover a la acción.
 
 Tagline: “Historias para transformar la educación”
 
 Promesa:
-En pocos minutos, una persona entiende un problema educativo real y puede reflexionar sobre él.
+En pocos minutos, una persona entiende un problema educativo real y siente el impulso de hacer algo al respecto.
 
 ---
 
@@ -36,15 +36,16 @@ Mistorias las humaniza, las explica y las presenta desde una perspectiva accesib
 ## 4. Audiencia
 
 Principal:
-- Personas interesadas en la educación
+- Personas con capacidad de influir o actuar en educación
 - Educadores y educadoras
-- Personas con curiosidad por entender problemáticas sociales
+- Líderes locales
+- Personas en gestión pública, comunitaria o social
 
 Secundaria:
 - Ciudadanía interesada en entender mejor la educación
 
 Criterio:
-Se prioriza a quienes buscan comprender y reflexionar.
+Se prioriza a quienes buscan comprender, reflexionar y actuar.
 
 ---
 
@@ -56,7 +57,7 @@ No es:
 - Un espacio académico
 
 Es:
-- Un proyecto personal de blogging que transforma datos educativos en comprensión humana
+- Un proyecto personal de blogging que transforma datos educativos en comprensión humana y acción.
 
 ---
 
@@ -64,10 +65,11 @@ Es:
 
 - Empatía → personas antes que datos
 - Transparencia → contexto claro, fuentes visibles
+- Empoderamiento → comprensión que habilita acción
 - Claridad → lo complejo se vuelve entendible
 
 Secuencia conceptual:
-SIENTE → ENTIENDE → REFLEXIONA
+SIENTE → ENTIENDE → ACTÚA
 
 ---
 
@@ -77,16 +79,17 @@ Mistorias cree en historias que conectan datos con personas.
 
 Desde la empatía, para humanizar la desigualdad educativa.
 Desde la transparencia, para construir confianza con contexto y fuentes claras.
+Desde el empoderamiento, para convertir la comprensión en acción.
 Desde la claridad, para hacer accesible lo complejo.
 
 No se limita a informar.
-Busca ayudar a ver y entender mejor.
+Busca ayudar a ver, entender y transformar.
 
 ---
 
 ## 8. Personalidad de marca
 
-Humana • Clara • Inspiradora • Reflexiva • Optimista
+Humana • Clara • Inspiradora • Orientada a la acción • Optimista activa
 
 Arquetipos:
 - Principal: Curador
@@ -102,7 +105,7 @@ No pretende saberlo todo: ayuda a comprender mejor.
 Mistorias:
 - Habla con humanidad
 - Explica con claridad
-- Invita a la reflexión
+- Moviliza con intención
 
 No:
 - No dramatiza en exceso
@@ -128,9 +131,7 @@ Estilo:
 Manual, gestual, 70% geométrico + 30% humano
 
 Metáfora:
-Datos que ascienden hacia comprensión
-
----
+Datos que ascienden hacia comprensión y acción
 
 ### 10.2 Paleta análoga educativa
 
@@ -145,7 +146,7 @@ Secundarios (Apoyo Educativo):
 - Rust `#A24A2A` — Metadatos, fuentes, contexto
 
 Lógica:
-Colores cálidos para temas educativos complejos (urgencia + esperanza).
+Colores cálidos para temas educativos complejos: urgencia + esperanza.
 
 ### 10.3 Tipografía educativa
 
@@ -181,7 +182,7 @@ La educación no falla por falta de datos, sino por falta de comprensión humana
 Mensajes de apoyo:
 - Las historias hacen visibles las brechas
 - Los datos explican su origen
-- La comprensión permite nuevas perspectivas
+- La comprensión permite actuar
 
 ---
 
@@ -198,6 +199,6 @@ Mensajes de apoyo:
 
 Si el contenido informa pero no conecta → falla
 Si conecta pero no explica → falla
-Si explica pero no invita a reflexionar → falla
+Si explica pero no moviliza → falla
 
-Debe cerrar el ciclo: sentir, entender y reflexionar.
+Debe cerrar el ciclo: sentir, entender y actuar.
