@@ -3,25 +3,25 @@
 ## 1. Por qué Mistorias es único
 
 Mistorias es único porque no se limita a informar ni a mostrar datos:
-convierte historias reales en comprensión profunda, y esa comprensión en acción.
+convierte historias reales en comprensión profunda.
 
 Combina:
 - Narrativa humana
 - Datos explicados
-- Acción concreta
+- Reflexión personal
 
-Desde un contexto local (Arequipa/Perú) con vocación transformadora.
+Desde un contexto local y personal (Arequipa/Perú) con vocación transformadora.
 
 ---
 
 ## 2. Esencia
 
-Mistorias conecta historias individuales con la historia más grande que las explica para generar conciencia y mover a la acción.
+Mistorias conecta historias individuales con la historia más grande que las explica para generar conciencia.
 
 Tagline: “Historias para transformar la educación”
 
 Promesa:
-En pocos minutos, una persona entiende un problema educativo real y siente el impulso de hacer algo al respecto.
+En pocos minutos, una persona entiende un problema educativo real y puede reflexionar sobre él.
 
 ---
 
@@ -29,35 +29,34 @@ En pocos minutos, una persona entiende un problema educativo real y siente el im
 
 Las brechas educativas no se entienden cuando se comunican como datos fríos.
 
-Mistorias las humaniza, las explica y las convierte en impulso transformador.
+Mistorias las humaniza, las explica y las presenta desde una perspectiva accesible.
 
 ---
 
 ## 4. Audiencia
 
 Principal:
-- Personas con capacidad de influir o actuar en educación
+- Personas interesadas en la educación
 - Educadores y educadoras
-- Líderes locales
-- Personas en gestión pública, comunitaria o social
+- Personas con curiosidad por entender problemáticas sociales
 
 Secundaria:
-- Ciudadanía interesada en entender y mejorar la educación
+- Ciudadanía interesada en entender mejor la educación
 
 Criterio:
-Priorizamos a quienes pueden convertir comprensión en acción.
+Se prioriza a quienes buscan comprender y reflexionar.
 
 ---
 
 ## 5. Territorio de marca
 
-No somos:
+No es:
 - Un medio de noticias tradicional
 - Un repositorio de datos
 - Un espacio académico
 
-Somos:
-- Una plataforma narrativa que transforma datos educativos en comprensión humana y acción
+Es:
+- Un proyecto personal de blogging que transforma datos educativos en comprensión humana
 
 ---
 
@@ -65,37 +64,36 @@ Somos:
 
 - Empatía → personas antes que datos
 - Transparencia → contexto claro, fuentes visibles
-- Empoderamiento → comprensión que habilita acción
 - Claridad → lo complejo se vuelve entendible
 
 Secuencia conceptual:
-SIENTE → ENTIENDE → ACTÚA
+SIENTE → ENTIENDE → REFLEXIONA
 
 ---
 
 ## 7. Manifiesto
 
-Creemos en historias que conectan datos con personas.
+Mistorias cree en historias que conectan datos con personas.
 
 Desde la empatía, para humanizar la desigualdad educativa.
 Desde la transparencia, para construir confianza con contexto y fuentes claras.
-Desde el empoderamiento, para convertir la comprensión en acción.
+Desde la claridad, para hacer accesible lo complejo.
 
-No queremos solo informar.
-Queremos ayudar a ver, entender y transformar.
+No se limita a informar.
+Busca ayudar a ver y entender mejor.
 
 ---
 
 ## 8. Personalidad de marca
 
-Humana • Clara • Inspiradora • Orientada a la acción • Optimista activa
+Humana • Clara • Inspiradora • Reflexiva • Optimista
 
 Arquetipos:
 - Principal: Curador
 - Secundario: Cuidador
 
 Mistorias selecciona, conecta y da contexto.
-No presume saberlo todo: ayuda a comprender mejor.
+No pretende saberlo todo: ayuda a comprender mejor.
 
 ---
 
@@ -104,7 +102,7 @@ No presume saberlo todo: ayuda a comprender mejor.
 Mistorias:
 - Habla con humanidad
 - Explica con claridad
-- Moviliza con intención
+- Invita a la reflexión
 
 No:
 - No dramatiza en exceso
@@ -130,7 +128,9 @@ Estilo:
 Manual, gestual, 70% geométrico + 30% humano
 
 Metáfora:
-Datos que ascienden hacia comprensión y acción
+Datos que ascienden hacia comprensión
+
+---
 
 ### 10.2 Paleta análoga educativa
 
@@ -145,7 +145,7 @@ Secundarios (Apoyo Educativo):
 - Rust `#A24A2A` — Metadatos, fuentes, contexto
 
 Lógica:
-Colores cálidos para temas educativos complejos: urgencia + esperanza.
+Colores cálidos para temas educativos complejos (urgencia + esperanza).
 
 ### 10.3 Tipografía educativa
 
@@ -158,7 +158,7 @@ Lora (Narrativa):
 - Pesos: SemiBold 600, Regular 400, Italic 400i
 
 Principio tipográfico:
-La tipografía debe reforzar el equilibrio entre claridad analítica y sensibilidad humana.
+La tipografía refuerza el equilibrio entre claridad analítica y sensibilidad humana.
 
 ---
 
@@ -166,9 +166,9 @@ La tipografía debe reforzar el equilibrio entre claridad analítica y sensibili
 
 1. Historias humanas
 2. Datos explicados
-3. Acciones concretas
+3. Contexto y reflexión
 
-Todo contenido debe combinar al menos 2.
+Todo contenido combina al menos 2.
 Idealmente, los 3.
 
 ---
@@ -181,7 +181,7 @@ La educación no falla por falta de datos, sino por falta de comprensión humana
 Mensajes de apoyo:
 - Las historias hacen visibles las brechas
 - Los datos explican su origen
-- La comprensión permite actuar
+- La comprensión permite nuevas perspectivas
 
 ---
 
@@ -198,6 +198,6 @@ Mensajes de apoyo:
 
 Si el contenido informa pero no conecta → falla
 Si conecta pero no explica → falla
-Si explica pero no moviliza → falla
+Si explica pero no invita a reflexionar → falla
 
-Debe cerrar el ciclo: sentir, entender y actuar.
+Debe cerrar el ciclo: sentir, entender y reflexionar.
