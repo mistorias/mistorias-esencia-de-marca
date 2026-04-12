@@ -1,4 +1,4 @@
-# Mistorias - Estrategia de Marca
+# Mistorias - Guía editorial
 
 ## 1. Por qué Mistorias es único
 
@@ -120,50 +120,7 @@ Uso del humor:
 
 ---
 
-## 10. Identidad visual
-
-### 10.1 Concepto visual: "Ascending Data"
-
-Símbolo:
-Libro abierto (educación) + quipu (memoria/datos) + Misti (Arequipa)
-
-Estilo:
-Manual, gestual, 70% geométrico + 30% humano
-
-Metáfora:
-Datos que ascienden hacia comprensión y acción
-
-### 10.2 Paleta análoga educativa
-
-Primarios (Eje Rojo/Transformación):
-- Wine Red `#8B0F0F` — Problema, urgencia, transformación
-- Warm Red `#C44336` — Acción, esperanza, movimiento
-- Deep Burgundy `#5E2C3E` — Profundidad analítica, datos
-
-Secundarios (Apoyo Educativo):
-- Deep Slate `#1E2328` — Fondo dark mode
-- Off-White `#F7F4EF` — Fondo light mode
-- Rust `#A24A2A` — Metadatos, fuentes, contexto
-
-Lógica:
-Colores cálidos para temas educativos complejos: urgencia + esperanza.
-
-### 10.3 Tipografía educativa
-
-IBM Plex Sans (Información):
-- Uso: H1, navegación, botones, datos numéricos
-- Pesos: Bold 700, SemiBold 600, Regular 400
-
-Lora (Narrativa):
-- Uso: H2, body text, historias, análisis
-- Pesos: SemiBold 600, Regular 400, Italic 400i
-
-Principio tipográfico:
-La tipografía refuerza el equilibrio entre claridad analítica y sensibilidad humana.
-
----
-
-## 11. Pilares de contenido
+## 10. Pilares de contenido
 
 1. Historias humanas
 2. Datos explicados
@@ -174,7 +131,7 @@ Idealmente, los 3.
 
 ---
 
-## 12. Sistema de mensaje
+## 11. Sistema de mensaje
 
 Mensaje central:
 La educación no falla por falta de datos, sino por falta de comprensión humana de esos datos.
@@ -186,7 +143,7 @@ Mensajes de apoyo:
 
 ---
 
-## 13. Confianza
+## 12. Confianza
 
 - Fuentes visibles
 - Contexto explicado
@@ -195,7 +152,7 @@ Mensajes de apoyo:
 
 ---
 
-## 14. Regla de oro editorial
+## 13. Regla de oro editorial
 
 Si el contenido informa pero no conecta → falla
 Si conecta pero no explica → falla
