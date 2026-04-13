@@ -7,7 +7,7 @@ Todo lo siguiente aplica al trabajo en este repositorio. Redacta **siempre en ca
 ### Comentarios preemptivos (*pre-emptive commit comments*)
 
 - Referencia: [Preemptive commit comments — Arialdo Martini](https://arialdomartini.wordpress.com/2012/09/03/pre-emptive-commit-comments/).
-- **Regla #2 (obligatoria en espíritu):** el mensaje describe **qué hace o en qué estado queda el software** tras el commit (comportamiento o resultado útil para quien lee el historial), **no** la crónica de lo que hizo la persona (“arreglé”, “cambié archivo X”) ni la primera persona del trabajo.
+- **Regla #2 (obligatoria en espíritu):** el mensaje describe **qué hace o en qué estado queda el software** tras el commit (comportamiento o resultado útil para quien lee el historial), **no** la crónica de lo que hizo la persona (“arreglé”, “cambié archivo X”) ni la primera persona del trabajo. Incluso en el caso de correcciones por refactoring o formato, se debe indicar cómo queda el código luego de la acción.
 - Cuando encaje el flujo, conviene **pensar o bosquejar el mensaje antes** de terminar el cambio, como intención clara del commit.
 
 ### Commits atómicos
