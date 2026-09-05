@@ -23,6 +23,7 @@ Este repositorio reúne la referencia de marca de **Mistorias**: criterios de co
 
 - [Guía editorial](guia-editorial.md) — posicionamiento, audiencia, voz, tono, pilares de contenido, mensajes, confianza y regla de oro editorial.  
 - [Identidad visual](identidad-visual.md) — concepto visual, paleta y tipografía.
+- [Autoría](autoria.md) — quién firma cada historia, qué datos se le piden a quien colabora y cómo se declara el uso de inteligencia artificial.
 
 ## Licencia
 
