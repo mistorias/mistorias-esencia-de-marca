@@ -16,15 +16,19 @@ Donde la acción no tiene que ser necesariamente grande. Puede consistir en comp
 
 2. Audiencia
 
-La prioridad de audiencia será:
+El criterio de audiencia no es la identidad de la persona (docente, familia, ciudadanía en general), sino su capacidad de actuar frente al problema que plantea la historia:
 
-1. Personas interesadas en mejorar la educación en el Perú.
-2. Personas vinculadas a la educación y las políticas públicas.
-3. Docentes y directores.
-4. Familias y padres.
-5. Audiencias secundarias: estudiantes, periodistas, organizaciones, ONG y posibles aliados.
+Se prioriza a quien puede actuar, no a quien vive el problema o a quien opina sobre él.
 
-Mistorias se dirigirá principalmente a la ciudadanía en general, evitando posicionarse como una publicación exclusiva para docentes o especialistas.
+Esto no descarta a nadie del proyecto. Quien solo vive el problema, sin capacidad de acción inmediata (por ejemplo, una madre de familia en un pueblo alejado), sigue siendo un beneficiario de Mistorias. Pero no es la audiencia de la publicación en redes: la publicación se dirige a quien sí puede hacer algo con lo que lee.
+
+Personas de referencia (no son la audiencia final; sirven para calibrar el tono de cada publicación):
+
+* José — estudiante de la UNSA (Arequipa), va a estudiar educación.
+* Rigoberto — director de colegio rural de primaria, con pocos profesores.
+* Iván — activista, estudiante en San Marcos (Lima).
+
+Al escribir una publicación, la pregunta no es "¿esto le interesará a esta persona?" sino "¿esta persona podría hacer algo con esto, y para cuándo?".
 
 ⸻
 
@@ -54,6 +58,8 @@ La presencia inicial será en:
 * Instagram
 * X
 
+Instagram no permite enlace clicable en el pie de foto: se usa "link en la bio", apuntando siempre a la última historia.
+
 Se aplicará el principio:
 
 Crear una vez, distribuir tres veces.
@@ -76,6 +82,8 @@ Actualmente existen ocho historias, por lo que el lanzamiento podrá utilizar in
 
 Esto permite establecer una frecuencia constante sin necesidad de producir contenido adicional únicamente para redes sociales.
 
+El tiempo dedicado será de 1 hora semanal: 20 minutos de producción y 40 minutos de conversación, repartidos durante la semana (no en un solo bloque — la conversación muere si se responde tarde).
+
 ⸻
 
 6. Formato de las publicaciones
@@ -85,43 +93,54 @@ Las publicaciones no reproducirán necesariamente la historia completa.
 Cada publicación partirá de la historia y tendrá:
 
 1. Imagen
-    * La imagen asociada a la historia.
+    * La imagen 16:9 asociada a la historia (se produce en otro proceso).
 2. Resumen
-    * Una síntesis breve y atractiva de la historia.
-    * Debe permitir comprender el conflicto o situación sin necesidad de leer el texto completo.
-3. Pregunta personal
-    * Una pregunta relacionada con la experiencia que plantea la historia.
-    * Debe incentivar a las personas a contar algo que hayan vivido, visto o experimentado.
-4. Invitación a participar
-    * Se invitará explícitamente a compartir experiencias personales.
-    * Cuando sea pertinente, también se podrá invitar a compartir ideas o soluciones.
+    * Abre el conflicto, no lo resuelve: plantea la tensión de la historia y omite el desenlace. El desenlace solo está detrás del enlace.
+    * Mismo criterio que ya rige la miniatura 1:1 en la guía de imágenes: busca curiosidad, no explica.
+    * Prueba: si alguien lee el resumen y ya sabe cómo termina la historia, sobra un dato.
+3. Pregunta de acción
+    * Se deriva del bloque "Acción final" que ya cierra cada historia en el sitio (segmentado por quien trabaja en un colegio / quien es familia / quien puede incidir en política).
+    * No se inventa cada semana: se convierte ese bloque, que ya existe, de imperativo a pregunta, añadiendo un "para cuándo".
+4. Invitación a comprometerse
+    * Se pide una acción o un compromiso, no una vivencia ni una opinión (ver sección 7).
 
-El foco principal será siempre la experiencia de las personas.
+**Bug conocido, no resuelto:** el proceso/skill que genera el resumen automático hoy aparenta tomar el `meta-og:description` de la historia, que sí revela el desenlace. Hay que corregirlo para que el resumen generado abra el conflicto, no lo cierre — mientras no se corrija, invalida el punto 2 de esta sección.
 
 ⸻
 
 7. Tipo de conversación
 
-La conversación debe ser principalmente personal y concreta.
+Se pide una acción o un compromiso, no una vivencia ni una opinión.
 
-Se buscarán respuestas como:
+Antes se buscaban vivencias ("a mí me pasó algo parecido"). La vivencia sola ya no es el objetivo: es, a lo sumo, un paso intermedio, no el cierre de la conversación.
 
-* “A mí me pasó algo parecido.”
-* “En mi colegio vivimos esta situación.”
-* “Cuando fui director, hicimos esto.”
-* “Mi hijo pasó por algo similar.”
-* “Yo enfrenté este problema de esta manera.”
-* “En mi comunidad encontramos esta solución.”
+Prueba para distinguir qué se pide:
 
-Se evitarán, en lo posible, preguntas excesivamente generales como:
+* Opinión (descartar): "Se deberían cambiar los horarios en los colegios rurales."
+* Vivencia sola (ya no es el objetivo): "A mí me pasó algo parecido."
+* Acción válida (lo que se pide): tiene sujeto (yo), verbo y un "cuándo". Ejemplo: "Voy a proponer cambiar los horarios en mi colegio este mes."
 
-“¿Qué opinas de la educación peruana?”
-
-La intención es convertir las historias en puertas de entrada a experiencias reales.
+La intención es convertir las historias en compromisos verificables, no solo en relatos compartidos.
 
 ⸻
 
-8. Comunidad
+8. Plantilla de publicación semanal (formato final)
+
+1. **Imagen** — la 16:9 de la historia (ya se produce por otro proceso).
+2. **Gancho** — idéntico en las tres redes.
+    * Presupuesto de caracteres de X: 280 en total, de los cuales el enlace consume ~24 (23 que X cuenta para cualquier link + 1 espacio), dejando ~256 para gancho + cierre combinados.
+    * En la práctica, el gancho debería ocupar solo ~180-200 caracteres, para dejarle aire a un cierre corto en X.
+3. **Cierre — particular por red:**
+    * Facebook: la pregunta de acción completa, con sus ramas (docente / familia / incidencia).
+    * Instagram: versión corta de la pregunta + "link en la bio".
+    * X: una sola línea, sin ramas (ej. "¿Qué vas a hacer esta semana con esto?").
+4. **Enlace con UTM por red** (`?utm_source=facebook`, `instagram`, `x`).
+
+*Advertencia para quien escriba el gancho semana a semana:* un gancho de ~190 caracteres pierde detalle (nombres secundarios, matices) frente a un resumen sin límite. Es un trade-off aceptado, pero conviene revisar tras 2-3 semanas si el recorte sigue funcionando o si esa semana tuvo un gancho inusualmente corto por casualidad.
+
+⸻
+
+9. Comunidad
 
 El objetivo no será conseguir únicamente muchos seguidores o grandes cantidades de comentarios.
 
@@ -144,7 +163,7 @@ Incluso una conversación con pocas personas puede ser valiosa si esas personas 
 
 ⸻
 
-9. Ficción y realidad
+10. Ficción y realidad
 
 Mistorias contiene tanto historias reales como historias ficticias.
 
@@ -156,7 +175,7 @@ La transparencia editorial será prioritaria.
 
 ⸻
 
-10. Principios de comunicación
+11. Principios de comunicación
 
 La estrategia se basará en los siguientes principios:
 
@@ -190,7 +209,7 @@ La estrategia debe requerir el mínimo esfuerzo posible para mantener una public
 
 ⸻
 
-11. Objetivo de la estrategia
+12. Objetivo de la estrategia
 
 La estrategia de redes sociales busca convertir cada historia en una oportunidad para:
 
@@ -202,12 +221,30 @@ Pretende crear un espacio donde las experiencias de las personas permitan descub
 
 ⸻
 
-12. Siguiente etapa
+13. Siguiente etapa
 
 Una vez definida esta estrategia editorial, el siguiente paso será definir:
 
 1. La plantilla exacta de una publicación semanal.
+   → **Resuelta** (ver sección 8).
+
 2. La forma de responder y moderar los comentarios.
+   → **Abierto.** No se discutió en la sesión de coaching que actualizó este plan. Cualquier borrador que se redacte debe marcarse explícitamente como borrador para revisión de Mistorias, no como decisión final.
+
 3. El proceso de producción y automatización.
+   → Acción concreta: crear el repositorio `mistorias-redes-sociales` (GitHub, bajo la organización `mistorias`) para alojar plantillas, calendario editorial y lo que resulte del punto 4.
+
 4. Las herramientas que permitan publicar en las tres redes con el menor esfuerzo posible.
+   → **Abierto.** Tensión detectada: el plan original consideraba dlvr.it (RSS → redes, publicación automática). Eso ya no encaja del todo, porque el gancho se escribe a mano cada semana y el cierre varía por red — lo que pide más una herramienta de "componer una vez, publicar en tres" (ej. Buffer, plan gratuito: 3 canales, 10 posts en cola por canal) que un autopiloto de RSS. Falta decidir cuál se usa. Nota de borrador, no decisión final.
+
 5. Las métricas que permitan evaluar si la comunidad está realmente creciendo y participando.
+   → **Abierto.** No se discutió en la sesión. Referencia ya existente: el CTR de tráfico social al bloque de acción cívica, vía UTM — pero esa es una métrica de sitio, no de red social. La métrica de comunidad de este punto es distinta y sigue sin definir.
+
+6. Seguimiento de intenciones con fecha.
+
+   Cuando alguien anuncia una intención con fecha en un comentario ("voy a proponer X este mes"), se anota en una lista simple:
+
+   | Nombre | Qué dijo que haría | Dónde lo dijo | Fecha de seguimiento (~2 meses) |
+   |---|---|---|---|
+
+   En la fecha de seguimiento, se le escribe directo y se comparte un formulario de resultados. El formulario debe pedir como máximo: nombre, qué hizo, dónde, y permiso explícito para publicarlo. El consentimiento debe pedirse desde el inicio, no después — con cuidado especial si el relato involucra menores de edad (ej. el caso de Rigoberto, colegio identificable).
