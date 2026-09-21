@@ -1,6 +1,6 @@
-Estrategia de socialización de Mistorias
+# Estrategia de socialización de Mistorias
 
-1. Propósito
+## 1. Propósito
 
 Mistorias busca que más personas conozcan, conversen y actúen alrededor de los problemas y posibilidades de la educación en el Perú.
 
@@ -14,7 +14,7 @@ Donde la acción no tiene que ser necesariamente grande. Puede consistir en comp
 
 ⸻
 
-2. Audiencia
+## 2. Audiencia
 
 El criterio de audiencia no es la identidad de la persona (docente, familia, ciudadanía en general), sino su capacidad de actuar frente al problema que plantea la historia:
 
@@ -32,7 +32,7 @@ Al escribir una publicación, la pregunta no es "¿esto le interesará a esta pe
 
 ⸻
 
-3. Posicionamiento en redes
+## 3. Posicionamiento en redes
 
 Mistorias será una marca independiente.
 
@@ -50,7 +50,7 @@ Las redes deben transmitir que Mistorias:
 
 ⸻
 
-4. Redes sociales iniciales
+## 4. Redes sociales iniciales
 
 La presencia inicial será en:
 
@@ -70,7 +70,7 @@ La prioridad será minimizar el tiempo necesario para mantener las redes activas
 
 ⸻
 
-5. Frecuencia
+## 5. Frecuencia
 
 Mistorias publicará:
 
@@ -86,7 +86,7 @@ El tiempo dedicado será de 1 hora semanal: 20 minutos de producción y 40 minut
 
 ⸻
 
-6. Formato de las publicaciones
+## 6. Formato de las publicaciones
 
 Las publicaciones no reproducirán necesariamente la historia completa.
 
@@ -108,7 +108,7 @@ Cada publicación partirá de la historia y tendrá:
 
 ⸻
 
-7. Tipo de conversación
+## 7. Tipo de conversación
 
 Se pide una acción o un compromiso, no una vivencia ni una opinión.
 
@@ -124,7 +124,7 @@ La intención es convertir las historias en compromisos verificables, no solo en
 
 ⸻
 
-8. Plantilla de publicación semanal (formato final)
+## 8. Plantilla de publicación semanal (formato final)
 
 1. **Imagen** — la 16:9 de la historia (ya se produce por otro proceso).
 2. **Gancho** — idéntico en las tres redes.
@@ -140,7 +140,7 @@ La intención es convertir las historias en compromisos verificables, no solo en
 
 ⸻
 
-9. Comunidad
+## 9. Comunidad
 
 El objetivo no será conseguir únicamente muchos seguidores o grandes cantidades de comentarios.
 
@@ -163,9 +163,9 @@ Incluso una conversación con pocas personas puede ser valiosa si esas personas 
 
 ⸻
 
-10. Ficción y realidad
+## 10. Ficción y realidad
 
-Mistorias contiene tanto historias reales como historias ficticias.
+Mistorias contiene tanto historias basadas en hechos reales como historias completamente ficticias.
 
 Las historias ficticias pueden representar situaciones educativas realistas o inspiradas en problemas que podrían ocurrir en la realidad, pero nunca deberán presentarse como casos reales o testimonios reales.
 
@@ -175,7 +175,7 @@ La transparencia editorial será prioritaria.
 
 ⸻
 
-11. Principios de comunicación
+## 11. Principios de comunicación
 
 La estrategia se basará en los siguientes principios:
 
@@ -209,7 +209,7 @@ La estrategia debe requerir el mínimo esfuerzo posible para mantener una public
 
 ⸻
 
-12. Objetivo de la estrategia
+## 12. Objetivo de la estrategia
 
 La estrategia de redes sociales busca convertir cada historia en una oportunidad para:
 
@@ -221,7 +221,7 @@ Pretende crear un espacio donde las experiencias de las personas permitan descub
 
 ⸻
 
-13. Siguiente etapa
+## 13. Siguiente etapa
 
 Una vez definida esta estrategia editorial, el siguiente paso será definir:
 
@@ -229,7 +229,7 @@ Una vez definida esta estrategia editorial, el siguiente paso será definir:
    → **Resuelta** (ver sección 8).
 
 2. La forma de responder y moderar los comentarios.
-   → **Abierto.** No se discutió en la sesión de coaching que actualizó este plan. Cualquier borrador que se redacte debe marcarse explícitamente como borrador para revisión de Mistorias, no como decisión final.
+   → **Abierto.** Cualquier borrador que se redacte debe marcarse explícitamente como borrador para revisión de Mistorias, no como decisión final.
 
 3. El proceso de producción y automatización.
    → Acción concreta: crear el repositorio `mistorias-redes-sociales` (GitHub, bajo la organización `mistorias`) para alojar plantillas, calendario editorial y lo que resulte del punto 4.
@@ -238,7 +238,7 @@ Una vez definida esta estrategia editorial, el siguiente paso será definir:
    → **Abierto.** Tensión detectada: el plan original consideraba dlvr.it (RSS → redes, publicación automática). Eso ya no encaja del todo, porque el gancho se escribe a mano cada semana y el cierre varía por red — lo que pide más una herramienta de "componer una vez, publicar en tres" (ej. Buffer, plan gratuito: 3 canales, 10 posts en cola por canal) que un autopiloto de RSS. Falta decidir cuál se usa. Nota de borrador, no decisión final.
 
 5. Las métricas que permitan evaluar si la comunidad está realmente creciendo y participando.
-   → **Abierto.** No se discutió en la sesión. Referencia ya existente: el CTR de tráfico social al bloque de acción cívica, vía UTM — pero esa es una métrica de sitio, no de red social. La métrica de comunidad de este punto es distinta y sigue sin definir.
+   → **Abierto.** Referencia ya existente: el CTR de tráfico social al bloque de acción cívica, vía UTM — pero esa es una métrica de sitio, no de red social. La métrica de comunidad de este punto es distinta y sigue sin definir.
 
 6. Seguimiento de intenciones con fecha.
 
