@@ -232,7 +232,7 @@ Una vez definida esta estrategia editorial, el siguiente paso será definir:
    → **Abierto.** Cualquier borrador que se redacte debe marcarse explícitamente como borrador para revisión de Mistorias, no como decisión final.
 
 3. El proceso de producción y automatización.
-   → Acción concreta: crear el repositorio `mistorias-redes-sociales` (GitHub, bajo la organización `mistorias`) para alojar plantillas, calendario editorial y lo que resulte del punto 4.
+   → **Resuelta** (parcial). Se creó el repositorio [`mistorias-redes-sociales`](https://github.com/mistorias/mistorias-redes-sociales) (GitHub, organización `mistorias`) para alojar plantillas, calendario editorial y lo que resulte del punto 4. Por ahora solo tiene el README describiendo qué va a alojar; la plantilla, el calendario y el registro de seguimiento (punto 6) todavía no están poblados allí.
 
 4. Las herramientas que permitan publicar en las tres redes con el menor esfuerzo posible.
    → **Abierto.** Tensión detectada: el plan original consideraba dlvr.it (RSS → redes, publicación automática). Eso ya no encaja del todo, porque el gancho se escribe a mano cada semana y el cierre varía por red — lo que pide más una herramienta de "componer una vez, publicar en tres" (ej. Buffer, plan gratuito: 3 canales, 10 posts en cola por canal) que un autopiloto de RSS. Falta decidir cuál se usa. Nota de borrador, no decisión final.
