@@ -235,12 +235,12 @@ Una vez definida esta estrategia editorial, el siguiente paso será definir:
    → **Resuelta** (parcial). Se creó el repositorio [`mistorias-redes-sociales`](https://github.com/mistorias/mistorias-redes-sociales) (GitHub, organización `mistorias`) para alojar plantillas, calendario editorial y lo que resulte del punto 4. Por ahora solo tiene el README describiendo qué va a alojar; la plantilla, el calendario y el registro de seguimiento (punto 6) todavía no están poblados allí.
 
 4. Las herramientas que permitan publicar en las tres redes con el menor esfuerzo posible.
-   → **Resuelta: Buffer.** Se descartó dlvr.it (RSS → redes) porque el gancho se escribe a mano cada semana y el cierre varía por red — eso pide "componer una vez, publicar en tres", no un autopiloto de RSS. Se evaluaron Buffer, Metricool y Publer; los tres cubren Facebook + Instagram + X sin costo y muy por encima del volumen real (1 post/semana). El criterio de desempate fue configuración como código: Buffer es la única con API pública en el plan gratuito (GraphQL, 1 API key, 3000 requests/30 días — Metricool cobra la API desde su plan Advanced, ~US$53/mes; Publer no la garantiza en free). Eso permite que el skill que arma gancho + cierre por red + UTM alimente Buffer directo, sin pasar por la interfaz web cada semana.
-   Pendiente de ejecución (manual, requiere login de Mistorias): crear la cuenta de Buffer, conectar la Página de Facebook + cuenta de Instagram profesional (debe estar vinculada a la Página) + cuenta de X, y generar el API key.
-   **ADR pendiente:** la elección de *qué* herramienta (Buffer) ya está resuelta aquí, pero falta el ADR de *cómo* se construye la integración en `mistorias-redes-sociales` — tech stack (lenguaje/runtime, manejo de credenciales, testing) para el script o skill que llame a la API de Buffer. Se documentará en ese repo antes de escribir la integración.
+   → **Resuelta: Buffer.** Justificación completa, opciones evaluadas y consecuencias en [ADR 0001 — Herramienta de publicación: Buffer](https://github.com/mistorias/mistorias-redes-sociales/blob/main/docs/adr/0001-herramienta-publicacion-buffer.md), en `mistorias-redes-sociales`.
+   Pendiente de ejecución (manual, requiere login de Mistorias): crear la cuenta de Buffer y conectar Facebook, Instagram y X (detalle en el ADR).
+   **ADR pendiente aparte:** tech stack de la integración con la API de Buffer (ver README de `mistorias-redes-sociales`).
 
 5. Las métricas que permitan evaluar si la comunidad está realmente creciendo y participando.
-   → **Abierto.** Referencia ya existente: el CTR de tráfico social al bloque de acción cívica, vía UTM — pero esa es una métrica de sitio, no de red social. La métrica de comunidad de este punto es distinta y sigue sin definir. Nota: al no usarse Metricool, esto no viene resuelto por la herramienta del punto 4 — sigue siendo un pendiente aparte.
+   → **Abierto.** Referencia ya existente: el CTR de tráfico social al bloque de acción cívica, vía UTM — pero esa es una métrica de sitio, no de red social. La métrica de comunidad de este punto es distinta y sigue sin definir.
 
 6. Seguimiento de intenciones con fecha.
 
