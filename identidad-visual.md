@@ -3,7 +3,7 @@
 ## 1. Concepto visual: "Ascending Data"
 
 Símbolo:
-Libro abierto (educación) + quipu (memoria/datos) + Misti (Arequipa)
+Libro abierto (educación) + quipu (memoria/datos) + Misti (Arequipa) + mi familia
 
 Estilo:
 Manual, gestual, 70% geométrico + 30% humano
