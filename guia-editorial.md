@@ -10,7 +10,7 @@ Combina:
 - Datos explicados
 - Reflexión personal
 
-Desde un contexto local y personal (Arequipa/Perú) con vocación transformadora.
+Desde un contexto local y personal (Perú, con origen en Arequipa) con vocación transformadora.
 
 ---
 
