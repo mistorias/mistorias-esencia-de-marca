@@ -28,7 +28,7 @@ Personas de referencia (no son la audiencia final; sirven para calibrar el tono 
 * Rigoberto — director de colegio rural de primaria, con pocos profesores.
 * Iván — activista, estudiante en San Marcos (Lima).
 
-Al escribir una publicación, la pregunta no es "¿esto le interesará a esta persona?" sino "¿esta persona podría hacer algo con esto, y para cuándo?".
+Al escribir una publicación, la pregunta no es "¿esto le interesará a esta persona?" sino "¿esta persona podría hacer algo con esto?".
 
 ⸻
 
@@ -100,7 +100,7 @@ Cada publicación partirá de la historia y tendrá:
     * Prueba: si alguien lee el resumen y ya sabe cómo termina la historia, sobra un dato.
 3. Pregunta de acción
     * Se deriva del bloque "Acción final" que ya cierra cada historia en el sitio (segmentado por quien trabaja en un colegio / quien es familia / quien puede incidir en política).
-    * No se inventa cada semana: se convierte ese bloque, que ya existe, de imperativo a pregunta, añadiendo un "para cuándo".
+    * No se inventa cada semana: se elige una sola rama de ese bloque, que ya existe, y se convierte de imperativo a pregunta abierta. No se pide un "para cuándo": en la práctica siempre se quitaba antes de publicar y nadie lo usaba.
 4. Invitación a comprometerse
     * Se pide una acción o un compromiso, no una vivencia ni una opinión (ver sección 7).
 
@@ -118,7 +118,7 @@ Prueba para distinguir qué se pide:
 
 * Opinión (descartar): "Se deberían cambiar los horarios en los colegios rurales."
 * Vivencia sola (ya no es el objetivo): "A mí me pasó algo parecido."
-* Acción válida (lo que se pide): tiene sujeto (yo), verbo y un "cuándo". Ejemplo: "Voy a proponer cambiar los horarios en mi colegio este mes."
+* Acción válida (lo que se pide): tiene sujeto (yo), verbo y qué o a quién. Ejemplo: "Voy a proponer cambiar los horarios en mi colegio."
 
 La intención es convertir las historias en compromisos verificables, no solo en relatos compartidos.
 
@@ -131,9 +131,10 @@ La intención es convertir las historias en compromisos verificables, no solo en
     * Presupuesto de caracteres de X: 280 en total, de los cuales el enlace consume ~24 (23 que X cuenta para cualquier link + 1 espacio), dejando ~256 para gancho + cierre combinados.
     * En la práctica, el gancho debería ocupar solo ~180-200 caracteres, para dejarle aire a un cierre corto en X.
 3. **Cierre — particular por red:**
-    * Facebook: la pregunta de acción completa, con sus ramas (docente / familia / incidencia).
-    * Instagram: versión corta de la pregunta + "link en la bio".
-    * X: una sola línea, sin ramas (ej. "¿Qué vas a hacer esta semana con esto?").
+    * Las tres redes llevan la misma pregunta de acción, de **una sola rama**: con varias ramas el post se alarga, el gancho pierde fuerza y la acción se vuelve difusa. Las ramas completas siguen en el sitio, detrás del enlace.
+    * Facebook: línea puente corta (conecta la historia con quien la lee, sin revelar el desenlace) + la pregunta de acción.
+    * Instagram: la pregunta de acción + "link en la bio".
+    * X: la pregunta de acción, acortada si no cabe en 280 (ej. "¿Qué vas a hacer con esto?").
 4. **Enlace con UTM por red** (`?utm_source=facebook`, `instagram`, `x`).
 
 *Advertencia para quien escriba el gancho semana a semana:* un gancho de ~190 caracteres pierde detalle (nombres secundarios, matices) frente a un resumen sin límite. Es un trade-off aceptado, pero conviene revisar tras 2-3 semanas si el recorte sigue funcionando o si esa semana tuvo un gancho inusualmente corto por casualidad.
@@ -242,9 +243,9 @@ Una vez definida esta estrategia editorial, el siguiente paso será definir:
 5. Las métricas que permitan evaluar si la comunidad está realmente creciendo y participando.
    → **Abierto.** Referencia ya existente: el CTR de tráfico social al bloque de acción cívica, vía UTM — pero esa es una métrica de sitio, no de red social. La métrica de comunidad de este punto es distinta y sigue sin definir.
 
-6. Seguimiento de intenciones con fecha.
+6. Seguimiento de intenciones.
 
-   Cuando alguien anuncia una intención con fecha en un comentario ("voy a proponer X este mes"), se anota en una lista simple:
+   Cuando alguien anuncia una intención en un comentario ("voy a proponer X en mi colegio"), se anota en una lista simple. Como las publicaciones ya no piden un "cuándo", la fecha de seguimiento la fija el equipo: ~2 meses desde el comentario.
 
    | Nombre | Qué dijo que haría | Dónde lo dijo | Fecha de seguimiento (~2 meses) |
    |---|---|---|---|
