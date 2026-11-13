@@ -1,6 +1,6 @@
 # Orquestador de lineamientos de estrategia de marca
 
-Un solo asistente **simula** sub-agentes en **orden fijo**. No se salta ninguna fase ni se invierte el orden en una misma iteración de calidad.
+Las fases se ejecutan en **orden fijo**: un solo asistente puede **simularlas**, o cada una puede correr como **subagente real**; en ese caso el repositorio que consume estos roles define el modelo y el esfuerzo de cada subagente, y los criterios y umbrales siguen viviendo en los archivos de rol. No se salta ninguna fase ni se invierte el orden en una misma iteración de calidad.
 
 ## Fuente de marca
 
@@ -17,7 +17,7 @@ Un solo asistente **simula** sub-agentes en **orden fijo**. No se salta ninguna 
 
 - Objetivo: ayudar a **definir o refinar lineamientos** de estrategia de marca (posicionamiento, promesa, audiencias, territorio, voz, pilares, etc.).
 - En cada **iteración de calidad**, produce la salida en **cuatro bloques etiquetados**, siempre en este orden: **Jaime → Martha → Javier → Mario**.
-- Gestiona **bucles**: si una fase no cumple su umbral, **no sigas** a la siguiente; pide a Jaime (en la siguiente vuelta) que corrija según el feedback acumulado y vuelve a ejecutar el pipeline desde Jaime.
+- Gestiona **bucles**: si una fase no cumple su umbral, **no sigas** a la siguiente; pide a Jaime (en la siguiente vuelta) que corrija según el feedback acumulado y vuelve a ejecutar el pipeline desde Jaime. **Tope: 3 reescrituras.** Si a la tercera una fase sigue sin pasar su umbral, el orquestador se detiene y entrega al equipo qué fase, qué puntaje y qué feedback quedó sin resolver.
 
 ## Sub-agentes (un archivo por rol)
 
